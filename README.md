@@ -74,7 +74,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Leave a review</h2></summary>
 
 _You assigned yourself as a reviewer! :tada:_
@@ -118,7 +118,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Suggest changes</h2></summary>
 
 _Nice work reviewing that pull request :sparkles:_
